@@ -136,4 +136,4 @@ Me contacter
 - LinkedIn : [Tamara Yambode](https://www.linkedin.com/in/tamara-yambode-31733b17a/)
 - GitHub : [reinakrema-hue](https://github.com/reinakrema-hue)
 
-📍 Cotonou, Bénin | Ouverture à la mobilité sur Abidjan, Côte d'Ivoire.
+📍 Basée à Cotonou, Bénin | Mobilité facilitée vers Abidjan, Côte d’Ivoire grâce à mes attaches familiales sur place | Disponible à Abidjan sans contrainte particulière de relocalisation.

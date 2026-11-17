@@ -107,7 +107,7 @@ Axes d'amélioration proposés
 - Renforcement du suivi des indicateurs clés de risques (KRI).
 - Amélioration de la surveillance et de la traçabilité des opérations par une IA qui génère des alertes en temps réels.
 - Exploration de solutions telles que GLPI, HOPEX et LMS OU la mise en place d'un workflow intelligent pour le suivi et les alertes.
-- Valorisation des données disponibles dans les outils bancaires, notamment Amplitude.
+- Valorisation des données disponibles dans les outils bancaires, notamment Amplitude avec une version IA.
 
 Cette recherche m'a permis d'approfondir les liens entre gestion des risques, analyse des données et transformation numérique du secteur bancaire.
 

@@ -55,7 +55,6 @@ Contribuer à des projets technologiques qui associent analyse, innovation et co
 
 Me contacter
 - Email : reinakrema@gmail.com ou abikeyambode@gmail.com
-- Contact : 00229 01 61548027 (appel et whatsapp) - 00225 0789722192 (whatsapp)
-- LinkedIn : [[Tamara YAMBODE] https://www.linkedin.com/in/tamara-yambode-31733b17a?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
+- LinkedIn : [Tamara Yambode](https://www.linkedin.com/in/tamara-yambode-31733b17a/)
 
 📍 Cotonou, Bénin | Ouverture à la mobilité sur Abidjan, Côte d'Ivoire.

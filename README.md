@@ -45,7 +45,7 @@ Logistique et opérations
 
 Expériences professionnelles
 
- BGFIBank Côte d'Ivoire
+BGFIBank Côte d'Ivoire
 Direction des Risques – Contrôle permanent – Conformité / Gestion des risques
 
 Stage professionnel 
@@ -113,9 +113,9 @@ Cette recherche m'a permis d'approfondir les liens entre gestion des risques, an
 
 Formation
 
-- Master 2 Audit & Finance d'Entreprise** – IIM Bénin.
+- Master 2 Audit & Finance d'Entreprise – IIM Bénin.
 - D-CLIC OIF – Développement web Front-End et Back-End (React / Laravel).
-- DataCamp x ISHEERO** – Parcours Data Analyst (en cours).
+- DataCamp x ISHEERO – Parcours Data Analyst (en cours).
 
 Centres d'intérêt
 

@@ -4,7 +4,7 @@ Titulaire d'un Master 2 en Audit et Finance d'Entreprise, je m'intéresse à la 
 
 Mon parcours associe une formation en gestion financière et en audit à des expériences dans le secteur bancaire, les opérations et la gestion de projet, ainsi qu'à une orientation progressive vers les technologies numériques.
 
-À travers mes expériences chez BGFIBank Bénin et BGFIBank Côte d'Ivoire, j'ai développé une compréhension des enjeux liés aux opérations bancaires, au contrôle interne, à la gestion des risques, à la conformité et au reporting réglementaire.
+À travers mes expériences chez BGFIBank Bénin et BGFIBank Côte d'Ivoire, j'ai développé une compréhension des enjeux liés aux opérations bancaires, au contrôle de gestion et permanent, à la gestion des risques, à la conformité documentaire et au reporting réglementaire.
 
 Le programme D-CLIC de l'OIF m'a permis de développer des compétences en développement web Front-End et Back-End, mises en pratique dans la réalisation d'un projet web.
 

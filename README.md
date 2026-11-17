@@ -1,7 +1,5 @@
 Bonjour, je suis Tamara Yambode
 
-Gestion de projet | Audit & Finance | Data Analytics | Solutions digitales
-
 Titulaire d'un Master 2 en Audit et Finance d'Entreprise, je m'intéresse à la transformation digitale, au développement de solutions numériques et à l'exploitation des données au service de la performance des organisations.
 
 Mon parcours associe une formation en gestion financière et en audit à une orientation progressive vers les technologies numériques.

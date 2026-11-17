@@ -100,8 +100,8 @@ Sujet : L'apport de l'intelligence artificielle dans la détection précoce des 
 Travail de recherche consacré aux possibilités d'amélioration des dispositifs de détection et de suivi des risques financiers grâce aux technologies intelligentes.
 
 Principaux résultats de l'étude
-- 90 % (27 répondants sur 30)** ont indiqué une dépendance aux méthodes traditionnelles de détection des risques.
-- 93,33 % (28 répondants sur 30)** ont mis en évidence la faiblesse de l'utilisation de l'IA et le besoin de mécanismes de détection plus intelligents.
+- 90 % (27 répondants sur 30) ont indiqué une dépendance aux méthodes traditionnelles de détection des risques.
+- 93,33 % (28 répondants sur 30) ont mis en évidence la faiblesse de l'utilisation de l'IA et le besoin de mécanismes de détection plus intelligents.
 
 Axes d'amélioration proposés
 - Renforcement du suivi des indicateurs clés de risques (KRI).
